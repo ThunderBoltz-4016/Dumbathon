@@ -1,3 +1,32 @@
+# Dumbathon
+
+## Accessing this repository
+
+You can clone this repository locally using Git:
+
+```bash
+git clone https://github.com/ThunderBoltz-4016/Dumbathon.git
+```
+
+After cloning, change into the folder:
+
+```bash
+cd Dumbathon
+```
+
+If you already have the repo locally and want to fetch the latest changes:
+
+```bash
+git pull origin main
+```
+
+## Notes
+
+- The project is a Next.js/Tailwind app located under `zombie-black-market/`.
+- Run `npm install` inside `zombie-black-market/` before running the dev server.
+
+
+
 🧟 Popup Quiz Answers
 When you try to add an item to your cart, you will be interrupted by a quiz. If you get these wrong, your item is confiscated.
 
