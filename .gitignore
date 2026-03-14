@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+**/.next/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+.DS_Store
+.env
+.env.*
+
+# Editor directories
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+
+# Misc
+*.log
